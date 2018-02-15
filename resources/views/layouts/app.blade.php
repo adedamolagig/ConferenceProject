@@ -19,7 +19,12 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-style: Brush script MT; font-size: 45px;"> Auto Engineering Mega Conference 2018 </span>
+                <span style="font-weight: 1000; font-family: Herculanum; font-size: 35px;"> 2018 National Mega Conference on applications of automotive engineering systems. </span>
+        </nav>
+
+         <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 35px;"> "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
         </nav>
 
 
