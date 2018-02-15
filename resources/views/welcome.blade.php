@@ -58,20 +58,22 @@
   <div class="col-lg-4">
     <i class="fa fa-comments-o fa-5x" aria-hidden="true"></i>
     <h2>AIMS</h2>
-    <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+    <p>The aim of the conference is to integrate stakeholders for robust discourse, exposure, industry experience sharing & buy-in, transport systems collaborations and business integration, optimization of...</p>
     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
   <div class="col-lg-4">
      
     <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
     <h2>OBJECTIVES</h2>
-    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+    <p>1. Evaluate the current impact of various Automotive MEdia for an integrated Transportation system on the change Agenda of the Nation</p>
+    <p>2. Consider, review and suggest improvement on all critical requirements for comprehensice national Automotive system development.
     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
   <div class="col-lg-4">
     <i class="fa fa-sign-in fa-5x" aria-hidden="true"></i>
     <h2>CONFERENCE THEMES</h2>
-    <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+    <p>1. Overview of Applications of Automotive Engines in Mass transportation</p>
+    <p>2. An Overview of the Logistics systems and the impacts on economic development.</p>
     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
 </div><!-- /.row -->

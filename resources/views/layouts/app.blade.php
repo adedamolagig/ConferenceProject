@@ -19,7 +19,7 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-style: Brush script MT; font-size: 45px;"> Auto Engineering Mega Confernce 2018 </span>
+                <span style="font-weight: 1000; font-style: Brush script MT; font-size: 45px;"> Auto Engineering Mega Conference 2018 </span>
         </nav>
 
 
