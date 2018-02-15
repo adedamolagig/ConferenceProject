@@ -71,7 +71,7 @@
   </div><!-- /.col-lg-4 -->
   <div class="col-lg-4">
     <i class="fa fa-sign-in fa-5x" aria-hidden="true"></i>
-    <h2>CONFERENCE THEMES</h2>
+    <h2>SUB-THEMES</h2>
     <p>1. Overview of Applications of Automotive Engines in Mass transportation</p>
     <p>2. An Overview of the Logistics systems and the impacts on economic development.</p>
     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>

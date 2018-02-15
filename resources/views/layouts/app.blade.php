@@ -19,12 +19,12 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: Herculanum; font-size: 35px;"> 2018 National Mega Conference on applications of automotive engineering systems. </span>
+                <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Mega Conference on transmodal applications of automotive engineering systems. </span>
         </nav>
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 35px;"> "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
+                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 35px;"> THEME: "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
         </nav>
 
 
@@ -78,9 +78,9 @@
                             
                           </ul>
                         </li>
-                        <li class="nav-item">
+                       <!--  <li class="nav-item">
                           <a class="nav-link" href="#">Conference</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="#">Rates</a>                            
                         </li>
