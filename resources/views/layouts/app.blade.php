@@ -19,12 +19,12 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Mega Conference on transmodal applications of automotive engineering systems. </span>
+                <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Automotive Engineering System Mega Conference 10th - 13th April, 2018 </span>
         </nav>
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 35px;"> THEME: "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
+                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; ">THEME:</span> "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
         </nav>
 
 
@@ -58,7 +58,7 @@
                           <ul class="dropdown-menu">
                             <li><a href="#">About us</a></li>
                             <li><a href="#">Schedule</a></li>
-                            <li><a href="#">Hotel & Travel</a></li>
+                            <li><a href="#">Hotel Accomodation</a></li>
                             <li><a href="#">Networking</a></li>
                             <li><a href="#">Internatinal Attendees</a></li>
                             <li><a href="#">Powerful Young Professional</a></li>
@@ -83,6 +83,18 @@
                         </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="#">Rates</a>                            
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Aim</a>                            
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Objective</a>                            
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Sub-Themes</a>                            
                         </li>
                     </ul>
 
