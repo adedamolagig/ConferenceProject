@@ -18,8 +18,12 @@
 
 
         <nav class="navbar navbar-default navbar-static-top">
+            <!-- <span>Hi </span> -->
             <div class="container">
+               
                 <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Automotive Engineering System Mega Conference 10th - 13th April, 2018 </span>
+                <!-- <span style=" text-align: left; " >Hi</span> -->
+            </div>
         </nav>
 
          <nav class="navbar navbar-default navbar-static-top">
@@ -86,7 +90,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Aim</a>                            
+                            <a class="nav-link" href=" {{ route('aim') }} ">Aim</a>                            
                         </li>
 
                         <li class="nav-item">
@@ -94,7 +98,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Sub-Themes</a>                            
+                            <a class="nav-link" href=" {{ route('subThemes') }} ">Sub-Themes</a>                            
                         </li>
                     </ul>
 
