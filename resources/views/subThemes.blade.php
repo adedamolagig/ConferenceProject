@@ -16,33 +16,33 @@
 
                     <p style="text-align: justify; ">
                         The following sub-themes, among others, in each of the main areas, Airlines, Land Transport, Locomotive and Marines services, among others shall be addressed;
-                         
-                        <p> i. Overview of Applications of Automotive Engines in Mass transportation</p> 
+                    <ul>  
+                        <li> i. Overview of Applications of Automotive Engines in Mass transportation</li> 
                         
-                        <p>ii. An Overview of the Logistics Systems and  the  impacts on  economic development</p>
+                        <li>ii. An Overview of the Logistics Systems and  the  impacts on  economic development</li>
                         
-                        <p>iii. Overview of current practices in Automotive industries, and business  models , challenges  and opportunities.</p>
+                        <li>iii. Overview of current practices in Automotive industries, and business  models , challenges  and opportunities.</li>
                         
-                        <p>iv. Fleet Acquisitions, Operations Planning and Maintenance.</p>
+                        <li>iv. Fleet Acquisitions, Operations Planning and Maintenance.</li>
 
-                        <p>v. Opportunities for Research, Development  and Domestication of manufacturing  Industries</p> 
+                        <li>v. Opportunities for Research, Development  and Domestication of manufacturing  Industries</li> 
                         
-                        <p>vi. Standard and uniform Regulations of operations </p>
+                        <li>vi. Standard and uniform Regulations of operations </li>
                         
-                        <p>vii. Challenges for sustainability of successful Business Models in Mass Transit and Logistics Operations</p>
+                        <li>vii. Challenges for sustainability of successful Business Models in Mass Transit and Logistics Operations</li>
                         
-                        <p>viii. Case studies on successful and Failed Business Models in Mass Transportation and Logistics Industries.</p>
+                        <li>viii. Case studies on successful and Failed Business Models in Mass Transportation and Logistics Industries.</li>
 
-                        <p>ix. Economic Analysis of an integrated Automotive Project, Cost Analysis in Automotive Process Engineering, Automotive systems impact for SDG’s Development.</p>
+                        <li>ix. Economic Analysis of an integrated Automotive Project, Cost Analysis in Automotive Process Engineering, Automotive systems impact for SDG’s Development.</li>
 
-                        <p>x. Recreational Use of Automotive Technology including Tourism, Health, Safety &Environment (HSE), International Trade, Human Capacity building & Development.</p>
+                        <li>x. Recreational Use of Automotive Technology including Tourism, Health, Safety &Environment (HSE), International Trade, Human Capacity building & Development.</li>
 
-                        <p>xi. Cooperation with Academic Institution on Curriculum and Career developments for the Automotive Industry.</p>
+                        <li>xi. Cooperation with Academic Institution on Curriculum and Career developments for the Automotive Industry.</li>
 
-                        <p>xii. Automotive Engines for Agricultural Development.</p>
+                        <li>xii. Automotive Engines for Agricultural Development.</li>
 
-                        <p>xiii. Automotive Policy Planning, Mechanical & Electrical Equipment Manufacturing -Local Content  Development. Procurement for Operations or Maintenance).</p>
-
+                        <li>xiii. Automotive Policy Planning, Mechanical & Electrical Equipment Manufacturing -Local Content  Development. Procurement for Operations or Maintenance).</li>
+                    </ul>
 
                     </p>
 
