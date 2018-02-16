@@ -12,24 +12,37 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href=" {{ asset('css/animatedText.css') }} ">
 </head>
 <body>
     <div id="app">
 
 
         <nav class="navbar navbar-default navbar-static-top">
-            <!-- <span>Hi </span> -->
-            <div class="container">
+            
+            <ul>
+            
+            
                
-                <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Automotive Engineering System Mega Conference 10th - 13th April, 2018 @ Academy Inn, Lateef Jakande, Ikeja, Lagos.</span>
+                <!-- <span style="font-weight: 1000; font-family: Herculanum; font-size: 32px;"> 2018 National Automotive Engineering System Mega Conference 10th - 13th April, 2018 @ Academy Inn, Lateef Jakande, Ikeja, Lagos.</span> -->
                 <!-- <span style=" text-align: left; " >Hi</span> -->
-            </div>
+
+                <nav class="navbar navbar-light bg-faded">
+                  <form class="form-inline">
+                    <button class="btn btn-outline-success" type="button"> <img src="images/AutoEI.png" width="200px" height="40%"></button>
+                    <span class="word"></span>
+                    <button class="btn btn-outline-success" type="button"> <img src="images/logo.png" width="100px" height="40%"></button>
+                  </form>
+                </nav>
+
+           
+            </ul>
         </nav>
 
-         <nav class="navbar navbar-default navbar-static-top">
+        <!--  <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
                 <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; ">THEME:</span> "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
-        </nav>
+        </nav> -->
 
 
 
@@ -139,5 +152,6 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
+    <script src=" {{ asset('js/animatedText.js') }} "></script>
 </body>
 </html>
