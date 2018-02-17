@@ -31,7 +31,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: red serifs; font-size: 30px; "> <span style="font-family: Courier; ">Theme:</span> "Transmodal Applications of Automotive Engines in Logistics and Mass Transportation operations: Responsibilities Challenges and Opportunities" </span>
+                <span style="font-weight: 1000; font-family: red serifs; font-size: 30px; "> <span style="font-family: Courier; ">Theme:</span> "Transmodal Applications of Automotive Engines in Logistics and Mass Transportation Operations: Responsibilities Challenges and Opportunities" </span>
         </nav>
 
 
@@ -77,8 +77,9 @@
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Conference Events<b class="caret"></b></a>
                           <ul class="dropdown-menu">
                             <li><a href="#">Schedule of activities</a></li>
-                            <li><li><a href="#">Plenary Sessions</a></li></li>
                             <li><a href="#">Technical Study Tours</a></li>
+                            <li><li><a href="#">Plenary Sessions</a></li></li>
+                            
                             <li><a href="#">Networking</a></li>
                             <li><a href="#">Work Group Activites</a></li>
                             <li><a href="#">Rates</a></li>
