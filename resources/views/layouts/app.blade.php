@@ -95,12 +95,20 @@
                             <a class="nav-link" href=" {{ route('aim') }} ">Aim</a>                            
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Objective</a>                            
+                        <li class="dropdown">
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Objectives<b class="caret"></b></a>
+                          <ul class="dropdown-menu">
+                            <li><a href=" {{ route('subThemes') }} ">Sub Themes</a></li>
+                            
+                          </ul>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href=" {{ route('subThemes') }} ">Sub-Themes</a>                            
+                            <a class="nav-link" href="#">Participants</a>                            
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Downloads</a>                            
                         </li>
 
                          <li class="nav-item">
