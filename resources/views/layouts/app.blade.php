@@ -79,7 +79,7 @@
                             <li><a href="#">Networking</a></li>
                             <li><a href="#">Internatinal Attendees</a></li>
                             <li><a href="#">Powerful Young Professional</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href=" {{ route('contact') }} ">Contact us</a></li>
                           </ul>
                         </li>
                         <li class="nav-item">
