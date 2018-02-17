@@ -15,7 +15,7 @@
   <div class="col-lg-4">
     <i class="fa fa-comments-o fa-5x" aria-hidden="true"></i>
     <h2 style=" font-family:  Baloo Tamma; ">AIM</h2>
-    <p>The aim of the conference is to bring together and integrate the stakeholders in the application of Automotive Engineering systems in Mass Transportation and Logistics operations for robust discourse, exposure, industry experience sharing & buy-in, transport systems collaborations and business integration...</p>
+    <p>The aim of the conference is to bring together and integrate the stakeholders in the application of Automotive Engineering systems in Mass Transportation and Logistics operations. This will offer robust discourse, exposure, industry experience sharing & buy-in, transport systems collaborations and business integration...</p>
     <p><a class="btn btn-default" href=" {{ route('aim') }} " role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
   <div class="col-lg-4">

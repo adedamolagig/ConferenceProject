@@ -14,7 +14,7 @@
                         </div>
                     @endif
                     <div style="text-align: justify; font-size: 18px; ">
-                        <p >The aim of the conference is to bring together and integrate the stakeholders in the application of Automotive Engineering systems in Mass Transportation and Logistics operations for robust discourse, exposure, industry experience sharing & buy-in, transport systems collaborations and business integration, optimization of logistics and transportation system, stakeholders networking amongst others. </p> 
+                        <p >The aim of the conference is to bring together and integrate the stakeholders in the application of Automotive Engineering systems in Mass Transportation and Logistics operations. This will offer robust discourse, exposure, industry experience sharing & buy-in, transport systems collaborations and business integration, optimization of logistics and transportation system, stakeholders networking amongst others. </p> 
                         <p>
                             Among these stakeholders include;
                             <ul>
