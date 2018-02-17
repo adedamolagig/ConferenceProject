@@ -19,9 +19,14 @@
 
 
 
-        <nav class="navbar navbar-default navbar-static-top">
+       <!--  <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
                 <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> 2018 National Automotive Engineering System Mega Conference 10th - 13th April @ Academy Inn, Lateef Jakande, Ikeja, Lagos. </span>
+        </nav> -->
+
+        <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="images/megaauto2018-logo.png" width="100%"> </span>
         </nav>
 
          <nav class="navbar navbar-default navbar-static-top">
@@ -56,7 +61,7 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="nav navbar-nav">
                         <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event Info<b class="caret"></b></a>
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
                           <ul class="dropdown-menu">
                             <!-- <li><a href="#">About us</a></li> -->
                             <li><a href="#">Schedule</a></li>

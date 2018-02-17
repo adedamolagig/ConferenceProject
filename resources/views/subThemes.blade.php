@@ -3,9 +3,9 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="">
             <div class="panel panel-default">
-                <div class="panel-heading">Sub Themes</div>
+                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px"> Sub Themes </strong> </div>
 
                 <div class="panel-body">
                     @if (session('status'))
@@ -14,9 +14,11 @@
                         </div>
                     @endif
 
-                    <p style="text-align: justify; ">
-                        The following sub-themes, among others, in each of the main areas, Airlines, Land Transport, Locomotive and Marines services, among others shall be addressed;
-                    <ul>  
+                    <p style="text-align: justify; font-size: 20px; ">
+                        The following sub-themes, among others, in each of the main areas, Airlines, Land Transport, Locomotive and Marines services, among others shall be addressed;</p>
+
+                    <div style="font-size: 18px; ">
+                        <ul >  
                         <li> i. Overview of Applications of Automotive Engines in Mass transportation</li> 
                         
                         <li>ii. An Overview of the Logistics Systems and  the  impacts on  economic development</li>
@@ -42,10 +44,9 @@
                         <li>xii. Automotive Engines for Agricultural Development.</li>
 
                         <li>xiii. Automotive Policy Planning, Mechanical & Electrical Equipment Manufacturing -Local Content  Development. Procurement for Operations or Maintenance).</li>
-                    </ul>
+                        </ul>
 
-                    </p>
-
+                    </div>
                 </div>
             </div>
         </div>
