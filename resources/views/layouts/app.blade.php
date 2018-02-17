@@ -31,7 +31,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; ">Theme:</span> "Transmodal Application of Automotive Engines in Logistics and Mass Transportation: Responsibilities Challenges and Opportunities" </span>
+                <span style="font-weight: 1000; font-family: red serifs; font-size: 30px; "> <span style="font-family: Courier; ">Theme:</span> "Transmodal Applications of Automotive Engines in Logistics and Mass &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transportation: Responsibilities Challenges and Opportunities" </span>
         </nav>
 
 
@@ -64,33 +64,30 @@
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
                           <ul class="dropdown-menu">
                             <!-- <li><a href="#">About us</a></li> -->
-                            <li><a href="#">Schedule</a></li>
-                            <li><a href="#">Hotel Accomodation</a></li>
-                            <li><a href="#">Networking</a></li>
-                            <li><a href="#">Internatinal Attendees</a></li>
-                            <li><a href="#">Powerful Young Professional</a></li>
+                            <li><a href="#">Chairman's comment</a></li>
+                            <li><a href="#">Divisional Chairmen comments</a></li>
+                           
                             <!-- <li><a href=" {{ route('contact') }} ">Contact us</a></li> -->
                           </ul>
                         </li>
-                        <li class="nav-item">
+                       <!--  <li class="nav-item">
                           <a class="nav-link" href="#">Photographs</a>
-                        </li>
+                        </li> -->
                         <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exhibition<b class="caret"></b></a>
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Conference Events<b class="caret"></b></a>
                           <ul class="dropdown-menu">
-                            <li><a href="#">Become and Exhibitor</a></li>
-                            <li><a href="#">Interactive floor Plan</a></li>
-                            <li><a href="#">Exhibitor List</a></li>
-                            <li><a href="#">Become a Sponsor</a></li>
+                            <li><a href="#">Schedule of activities</a></li>
+                            <li><a href="#">Networking</a></li>
+                            <li><a href="#">Technical Tours</a></li>
+                            <li><a href="#">Group Activites</a></li>
+                            <li><a href="#">Rates</a></li>
                             
                           </ul>
                         </li>
                        <!--  <li class="nav-item">
                           <a class="nav-link" href="#">Conference</a>
                         </li> -->
-                        <li class="nav-item">
-                            <a class="nav-link" href=" {{ route('contact') }} ">Contact Us</a>                            
-                        </li>
+                       
 
                         <li class="nav-item">
                             <a class="nav-link" href=" {{ route('aim') }} ">Aim</a>                            
@@ -102,6 +99,10 @@
 
                         <li class="nav-item">
                             <a class="nav-link" href=" {{ route('subThemes') }} ">Sub-Themes</a>                            
+                        </li>
+
+                         <li class="nav-item">
+                            <a class="nav-link" href=" {{ route('contact') }} ">Contact Us</a>                            
                         </li>
                     </ul>
 
