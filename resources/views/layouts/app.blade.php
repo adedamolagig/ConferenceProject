@@ -74,7 +74,7 @@
                           <a class="nav-link" href="#">Photographs</a>
                         </li> -->
                         <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Conference Events<b class="caret"></b></a>
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Conference Organisation & Events<b class="caret"></b></a>
                           <ul class="dropdown-menu">
                             <li><a href="#">Schedule of activities</a></li>
                             <li><a href="#">Technical Study Tours</a></li>
