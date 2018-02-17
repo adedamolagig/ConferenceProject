@@ -21,3 +21,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/aim', 'PageController@aim')->name('aim');
 Route::get('/subThemes', 'PageController@subThemes')->name('subThemes');
 Route::get('/contact', 'ContactController@index')->name('contact');
+Route::post('/contact', 'ContactController@store')->name('contact');

@@ -79,7 +79,7 @@
                             <li><a href="#">Networking</a></li>
                             <li><a href="#">Internatinal Attendees</a></li>
                             <li><a href="#">Powerful Young Professional</a></li>
-                            <li><a href=" {{ route('contact') }} ">Contact us</a></li>
+                            <!-- <li><a href=" {{ route('contact') }} ">Contact us</a></li> -->
                           </ul>
                         </li>
                         <li class="nav-item">
@@ -99,7 +99,7 @@
                           <a class="nav-link" href="#">Conference</a>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Rates</a>                            
+                            <a class="nav-link" href=" {{ route('contact') }} ">Contact Us</a>                            
                         </li>
 
                         <li class="nav-item">
