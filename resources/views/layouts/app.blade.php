@@ -73,7 +73,7 @@
                         <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event Info<b class="caret"></b></a>
                           <ul class="dropdown-menu">
-                            <li><a href="#">About us</a></li>
+                            <!-- <li><a href="#">About us</a></li> -->
                             <li><a href="#">Schedule</a></li>
                             <li><a href="#">Hotel Accomodation</a></li>
                             <li><a href="#">Networking</a></li>
