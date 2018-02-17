@@ -54,7 +54,22 @@
 
                     </form>
 
-                    
+                
+                <p style="font-size: 20px">Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</p>
+                <p>zdishaya@gmail.com</p>
+                <p>+234
+
+                <p style="font-size: 20px">Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</p>
+                <p>akin.adeoye@gmail.com</p>
+                <p>+2347035070288</p>
+
+                <p style="font-size: 20px">Engr. Mobolaji Olajide</p>
+                <p>engr.olajide@gmail.com</p>
+                <p>+2348036464114</p>
+
+                <p style="font-size: 20px">Engr. G.A Adoga</p>
+                <p>adogagwina@gmail.com</p>
+                <p>+2348035696296</p>
 
                 </div>
             </div>
