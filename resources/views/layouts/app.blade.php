@@ -26,7 +26,7 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="{{ asset('images/megaauto2018-logo.png')}}" width="100%"> </span>
+                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="{{ asset('images/megaauto2018.png')}}" width="100%"> </span>
         </nav>
 
          <nav class="navbar navbar-default navbar-static-top">
