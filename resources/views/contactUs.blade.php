@@ -54,21 +54,26 @@
 
                     </form>
 
-                <p><b>You can also contact us through</b>
-                <p style="font-size: 20px"><strong>Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</strong></p>
-                <p>zdishaya@gmail.com</p>
+                <p style="font-size: 25px; font-family: serif; color: green; "><b>You can also contact us via:</b></p>
+                <p style="font-size: 20px; color: green; "><strong>Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</strong></p>
+                <p style="font-size: 20px">zdishaya@gmail.com</p>
                 <p>+234
 
-                <p style="font-size: 20px"><strong>Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</strong></p>
-                <p>akin.adeoye@gmail.com</p>
+                <div> &nbsp; </div>
+                
+                <p style="font-size: 20px; color: green;"><strong>Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</strong></p>
+                <p style="font-size: 20px">akin.adeoye@gmail.com</p>
                 <p>+2347035070288</p>
+            
+                <div> &nbsp; </div>
 
-                <p style="font-size: 20px"><strong>Engr. Mobolaji Olajide</strong></p>
-                <p>engr.olajide@gmail.com</p>
+                <p style="font-size: 20px; color: green; "><strong>Engr. Mobolaji Olajide</strong></p>
+                <p style="font-size: 20px">engr.olajide@gmail.com</p>
                 <p>+2348036464114</p>
 
-                <p style="font-size: 20px"><strong>Engr. G.A Adoga</strong></p>
-                <p>adogagwina@gmail.com</p>
+                <div> &nbsp; </div>
+                <p style="font-size: 20px; color: green;"><strong>Engr. G.A Adoga</strong></p>
+                <p style="font-size: 20px">adogagwina@gmail.com</p>
                 <p>+2348035696296</p>
 
                 </div>

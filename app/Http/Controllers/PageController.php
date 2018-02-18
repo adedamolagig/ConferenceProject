@@ -16,4 +16,9 @@ class PageController extends Controller
     	return view('subThemes');
     }
 
+    public function downloads()
+    {
+    	return view('downloads');
+    }
+
 }

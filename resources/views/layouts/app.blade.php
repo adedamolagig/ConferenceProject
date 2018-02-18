@@ -108,7 +108,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Downloads</a>                            
+                            <a class="nav-link" href=" {{ route('downloads') }} ">Downloads</a>                            
                         </li>
 
                          <li class="nav-item">
