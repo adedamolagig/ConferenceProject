@@ -5,7 +5,7 @@
     <div class="row">
         <div class="">
             <div class="panel panel-default">
-                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px">Aim</strong></div>
+                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px; color: green">Aim</strong></div>
 
                 <div class="panel-body">
                     @if (session('status'))

@@ -5,7 +5,7 @@
     <div class="row">
         <div class="">
             <div class="panel panel-default">
-                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px"> Sub Themes </strong> </div>
+                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px; color: green"> Sub Themes </strong> </div>
 
                 <div class="panel-body">
                     @if (session('status'))
