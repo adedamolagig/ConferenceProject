@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-	<p>Click on the flyers to download the image:<p>
+	<p>Download Conferencer Flyer:<p>
 
 	<a href="/images/outside.jpg" download>
 	  <img border="0" src="/images/outside.jpg" alt="flyer_outside" width="200" height="150">
