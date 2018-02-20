@@ -31,7 +31,7 @@
 
   <div class="col-lg-4">
     
-    <h2 style=" font-family:  Baloo Tamma; font-weight: 400; color: green; " >Conference Organizers</h2>
+    <h2 style=" font-family:  Baloo Tamma; font-weight: 400; color: green; " >CONFERENCE ORGANIZERS</h2>
     <p>The conference is being organized by the Automotive and Locomotive Engines Division of the Nigerina Society of Engineers, in partnership with the Aeronautical Engineering and the Marine Engineering Dividions of the Society</p>
     <p><a class="btn btn-default" href=" {{ route('subThemes') }} " role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
