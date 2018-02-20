@@ -39,7 +39,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <img src="images/mega_landing_picture_1.png" width="100%" height="">
+                <img src="images/mega_landing_picture2.jpg" width="100%" height="400">
         </nav>
 
 
