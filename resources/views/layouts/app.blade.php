@@ -13,6 +13,15 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href=" {{ asset('css/animatedText.css') }} ">
+
+    <style type="text/css">
+            img {
+                max-width: 100%;
+                height: auto;
+                width: auto\9; /* ie8 */
+            }
+    </style>
+
 </head>
 <body>
     <div id="app">
@@ -26,7 +35,7 @@
 
         <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="{{ asset('images/megaauto2018.png')}}" width="100%"> </span>
+                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="{{ asset('images/megaauto2018.png')}}" > </span>
             </div>
         </nav>
 
@@ -39,7 +48,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <img src="images/mega_landing_picture2.jpg" width="100%" height="400">
+                <img src="images/megaautoeng1.png" >
         </nav>
 
 
