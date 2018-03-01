@@ -48,7 +48,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <img src="images/megalogo.png" >
+                <img src="images/Megalogo.png" >
         </nav>
 
 
