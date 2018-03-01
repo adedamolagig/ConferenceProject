@@ -15,11 +15,11 @@
     <link rel="stylesheet" type="text/css" href=" {{ asset('css/animatedText.css') }} ">
 
     <style type="text/css">
-            img {
-                max-width: 100%;
-                height: auto;
-                width: auto\9; /* ie8 */
-            }
+        img {
+            max-width: 100%;
+            height: auto;
+            width: auto\9; /* ie8 */
+        }
     </style>
 
 </head>
@@ -48,7 +48,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <img src="images/megaautoeng1.png" >
+                <img src="images/megalogo.png" >
         </nav>
 
 
