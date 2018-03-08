@@ -12,7 +12,7 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 class welcomeEmail extends Mailable
 {
 
-    public $user;
+
 
     use Queueable, SerializesModels;
 
@@ -21,9 +21,9 @@ class welcomeEmail extends Mailable
      *
      * @return void
      */
-    public function __construct(User $user)
+    public function __construct()
     {
-        $this->user = $user;
+        //
     }
 
     /**

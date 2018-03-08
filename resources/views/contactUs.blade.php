@@ -5,11 +5,18 @@
     <div class="row">
         <div class="col-md-6">
             <div class="panel panel-default">
-                <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px; color: green">
+                <div class="panel-heading"> 
+
+                    @if ($flash = session('message'))
+                        <div id="flash-message" class="alert alert-success" role="alert">
+                            {{$flash}}
+                        </div>
+                    @endif
+                    <strong style="font-size: 35px; font-weight: 35px; color: green">
                 CONTACT US</strong></div>
 
                 <div class="panel-body">
-                    <form method="POST" action="/threads">
+                    <form method="POST" action=" {{ route('contact') }} ">
                         {{csrf_field()}}
 
                         <div class="form-group">
@@ -21,14 +28,14 @@
 
                         <div class="form-group">
                             <label for="title">Your Email (required)</label>
-                            <input type="text" class="form-control" id="Email" name="Email"
-                                    value="{{ old('Email') }}" required>                          
+                            <input type="text" class="form-control" id="email" name="email"
+                                    value="{{ old('email') }}" required>                          
                         </div>
 
                         <div class="form-group">
                             <label for="title">Subject</label>
-                            <input type="text" class="form-control" id="Subject" name="Subject"
-                                    value="{{ old('Subject') }}" required>                          
+                            <input type="text" class="form-control" id="subject" name="subject"
+                                    value="{{ old('subject') }}" required>                          
                         </div>
 
                         <div class="form-group">

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Contact;
 use Illuminate\Http\Request;
+use App\Mail\ContactMessage;
 
 class ContactController extends Controller
 {
@@ -35,7 +36,20 @@ class ContactController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $contact = Contact::create([
+            'name' => request('name'),
+            'email' => request('email'),
+            'subject' => request('subject'),
+            'message' => request('message'),
+
+        ]);
+
+
+        \Mail::to($contact)->send(new ContactMessage($contact));
+
+        session()->flash('message', 'message has been sent!');
+
+        return back();
     }
 
     /**
