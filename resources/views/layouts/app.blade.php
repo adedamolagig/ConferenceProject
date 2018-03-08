@@ -121,6 +121,11 @@
                             <a class="nav-link" href="#">Participants</a>                            
                         </li>
 
+                         <li class="nav-item">
+                            <a class="nav-link" href=" {{ route('gallery') }} ">Gallery</a>                            
+                        </li>
+
+
                         <li class="nav-item">
                             <a class="nav-link" href=" {{ route('downloads') }} ">Downloads</a>                            
                         </li>

@@ -22,5 +22,6 @@ Route::get('/aim', 'PageController@aim')->name('aim');
 Route::get('/subThemes', 'PageController@subThemes')->name('subThemes');
 Route::get('/downloads', 'PageController@downloads')->name('downloads');
 Route::get('/objectives', 'PageController@objectives')->name('objectives');
+Route::get('/gallery', 'PageController@gallery')->name('gallery');
 Route::get('/contact', 'ContactController@index')->name('contact');
 Route::post('/contact', 'ContactController@store')->name('contact');

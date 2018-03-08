@@ -26,4 +26,9 @@ class PageController extends Controller
         return view('objectives');
     }
 
+    public function gallery()
+    {
+        return view('gallery');
+    }
+
 }
