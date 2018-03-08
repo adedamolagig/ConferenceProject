@@ -110,7 +110,7 @@
                         </li>
 
                         <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Objectives<b class="caret"></b></a>
+                          <a href=" {{ route('subThemes') }} " class="dropdown-toggle" data-toggle="dropdown">Objectives<b class="caret"></b></a>
                           <ul class="dropdown-menu">
                             <li><a href=" {{ route('subThemes') }} ">Sub Themes</a></li>
                             
