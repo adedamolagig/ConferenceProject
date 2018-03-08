@@ -24,7 +24,7 @@
     <h2 style=" font-family:  Baloo Tamma; color: green; ">OBJECTIVES</h2>
     <p>1. Evaluate the current impact of various Automotive MEdia for an integrated Transportation system on the change Agenda of the Nation</p>
     <p>2. Consider, review and suggest improvement on all critical requirements for comprehensice national Automotive system development.
-    <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <p><a class="btn btn-default" href=" {{ route('objectives') }} " role="button">View details &raquo;</a></p>
   </div><!-- /.col-lg-4 -->
 
 

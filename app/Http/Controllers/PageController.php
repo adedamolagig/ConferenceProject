@@ -21,4 +21,9 @@ class PageController extends Controller
     	return view('downloads');
     }
 
+    public function objectives()
+    {
+        return view('objectives');
+    }
+
 }
