@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6">
             <div class="panel panel-default">
                 <div class="panel-heading"> <strong style="font-size: 35px; font-weight: 35px; color: green">
                 CONTACT US</strong></div>
@@ -55,28 +55,38 @@
 
                     </form>
 
-                <p style="font-size: 25px; font-family: serif; color: green; "><b>You can also contact us via:</b></p>
-                <p style="font-size: 20px; color: green; "><strong>Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</strong></p>
-                <p style="font-size: 20px">zdishaya@gmail.com</p>
-                <p>+234
-
-                <div> &nbsp; </div>
                 
-                <p style="font-size: 20px; color: green;"><strong>Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</strong></p>
-                <p style="font-size: 20px">akin.adeoye@gmail.com</p>
-                <p>+2347035070288</p>
-            
-                <div> &nbsp; </div>
 
-                <p style="font-size: 20px; color: green; "><strong>Engr. Mobolaji Olajide</strong></p>
-                <p style="font-size: 20px">engr.olajide@gmail.com</p>
-                <p>+2348036464114</p>
+                </div>
+            </div>
+        </div>
 
-                <div> &nbsp; </div>
-                <p style="font-size: 20px; color: green;"><strong>Engr. G.A Adoga</strong></p>
-                <p style="font-size: 20px">adogagwina@gmail.com</p>
-                <p>+2348035696296</p>
+        <div class="col-md-6">
+            <div class="panel panel-default">
 
+                <div class="panel-body">
+                    
+                    <p style="font-size: 25px; font-family: serif; color: green; "><b>You can also contact us via:</b></p>
+                    <p style="font-size: 20px; color: green; "><strong>Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</strong></p>
+                    <p style="font-size: 20px">zdishaya@gmail.com</p>
+                    <p>+2347033505420</p>
+
+                    <div> &nbsp; </div>
+                    
+                    <p style="font-size: 20px; color: green;"><strong>Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</strong></p>
+                    <p style="font-size: 20px">akinadeoye9@gmail.com</p>
+                    <p>+2347035070288</p>
+                
+                    <div> &nbsp; </div>
+
+                    <p style="font-size: 20px; color: green; "><strong>Engr. Mobolaji Olajide</strong></p>
+                    <p style="font-size: 20px">engr.olajide@gmail.com</p>
+                    <p>+2348036464114</p>
+
+                    <div> &nbsp; </div>
+                    <p style="font-size: 20px; color: green;"><strong>Engr. G.A Adoga</strong></p>
+                    <p style="font-size: 20px">adogagwina@gmail.com</p>
+                    <p>+2348035696296</p>
                 </div>
             </div>
         </div>
