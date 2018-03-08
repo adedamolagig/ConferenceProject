@@ -163,6 +163,10 @@
         </nav>
 
         @yield('content')
+
+        <div class="panel-footer">
+            @include('layouts.footer')
+        </div>
     </div>
 
     <!-- Scripts -->
