@@ -88,10 +88,6 @@
                     <p style="font-size: 20px"> <a href="mailto:adogagwina@gmail.com">adogagwina@gmail.com</a> </p>
                     <p>+2348035696296</p>
 
-                    <div> &nbsp; </div>
-                    <p style="font-size: 20px; color: green;"><strong>Engr. G.A Adoga</strong></p>
-                    <p style="font-size: 20px"> <a href="mailto:adedamolagig@gmail.com">adogagwina@gmail.com</a> </p>
-                    <p>+2348035696296</p>
                 </div>
             </div>
         </div>
