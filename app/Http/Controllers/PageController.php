@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+
 class PageController extends Controller
 {
     public function aim()
@@ -30,5 +31,4 @@ class PageController extends Controller
     {
         return view('gallery');
     }
-
 }

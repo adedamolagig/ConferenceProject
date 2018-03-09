@@ -46,4 +46,6 @@
 </div><!-- /.row -->
 </div>
 
+visits #{{ $visits }}
+
 @endsection
