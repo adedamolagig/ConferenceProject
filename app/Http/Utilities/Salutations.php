@@ -5,12 +5,12 @@ namespace App\Http\Utilities;
 class Salutations{
     
     protected  static $salutations = [
-        "Prof"              => "Professor",
+        "Prof."              => "Professor",
         "Engr."             => "Engineering",
         "Dr.."              => "Doctor",
         "Mr."               => "Mister",
         "Mrs."              => "Missus",
-        "Miss"              => "Miss"
+        "Miss."              => "Miss"
 
         
         
