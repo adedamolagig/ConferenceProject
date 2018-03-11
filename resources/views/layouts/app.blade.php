@@ -78,7 +78,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                        {{ config('app.name', 'AUTOENGMEGACONFERENCE') }}
+                        Home
                     </a>
                 </div>
 
