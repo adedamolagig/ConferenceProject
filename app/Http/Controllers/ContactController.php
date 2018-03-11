@@ -47,7 +47,7 @@ class ContactController extends Controller
 
         \Mail::to($contact)->send(new ContactMessage($contact));
 
-        session()->flash('message', 'message has been sent!');
+        session()->flash('message', 'Your message has been sent, we will be in touch soon!');
 
         return back();
     }
