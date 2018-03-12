@@ -75,24 +75,24 @@
                     
                     <p style="font-size: 25px; font-family: serif; color: green; "><b>You can also contact us via:</b></p>
                     <p style="font-size: 20px; color: green; "><strong>Engr. Zamani ISHAYA-WAIDUNG, FNSE, FAutoEI, Fnim</strong></p>
-                    <p style="font-size: 20px"> <a href="mailto:zdishaya@gmail.com">zdishaya@gmail.com</a> </p>
+                    <p style="font-size: 20px; font-family: times; "> <a href="mailto:zdishaya@gmail.com">zdishaya@gmail.com</a> </p>
                     <p>+2347033505420</p>
 
                     <div> &nbsp; </div>
                     
                     <p style="font-size: 20px; color: green;"><strong>Engr. Dr. Akin Adeoye, FNSE, FAutoEI, Fnim</strong></p>
-                    <p style="font-size: 20px"> <a href="mailto:akinadeoye9@gmail.com"> akinadeoye9@gmail.com</p></a>
+                    <p style="font-size: 20px; font-family: times; "> <a href="mailto:akinadeoye9@gmail.com"> akinadeoye9@gmail.com</p></a>
                     <p>+2347035070288</p>
                 
                     <div> &nbsp; </div>
 
                     <p style="font-size: 20px; color: green; "><strong>Engr. Mobolaji Olajide</strong></p>
-                    <p style="font-size: 20px"> <a href="mailto:engr.olajide@gmail.com">engr.olajide@gmail.com</a></p>
+                    <p style="font-size: 20px; font-family: times; "> <a href="mailto:engr.olajide@gmail.com">engr.olajide@gmail.com</a></p>
                     <p>+2348036464114</p>
 
                     <div> &nbsp; </div>
                     <p style="font-size: 20px; color: green;"><strong>Engr. G.A Adoga</strong></p>
-                    <p style="font-size: 20px"> <a href="mailto:adogagwina@gmail.com">adogagwina@gmail.com</a> </p>
+                    <p style="font-size: 20px; font-family: times; "> <a href="mailto:adogagwina@gmail.com">adogagwina@gmail.com</a> </p>
                     <p>+2348035696296</p>
 
                 </div>
