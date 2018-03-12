@@ -59,7 +59,7 @@
 
          <nav class="navbar navbar-default navbar-static-top">
             <div class="container">
-                <img src="images/Megalogo.png" >
+                <img src="images/Megaautoeng1.png" >
         </nav>
 
 
