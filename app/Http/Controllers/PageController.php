@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
+use Illuminate\Support\Facades\Redis;
 
 class PageController extends Controller
 {
@@ -19,7 +19,9 @@ class PageController extends Controller
 
     public function downloads()
     {
-    	return view('downloads');
+
+        // $downloads = Redis::incr("\images.{1234.jpg}");
+    	return view('downloads')->withDownloads($downloads);
     }
 
     public function objectives()
