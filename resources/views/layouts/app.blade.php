@@ -160,6 +160,9 @@
 
                                 <ul class="dropdown-menu">
                                     <li>
+                                        <a href="/home">Abstract Submission</a>
+                                    </li>
+                                    <li>
                                         <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
