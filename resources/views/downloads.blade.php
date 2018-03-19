@@ -11,8 +11,8 @@
 
                 <div class="panel-body">
               	<p>Click on image to download... </p>
-                	<a href="/images/outside.jpg" download>
-					  <img border="0" src="/images/outside.jpg" alt="flyer_outside" width="200" height="150">
+                	<a href="/images/outside.png" download>
+					  <img border="0" src="/images/outside.png" alt="flyer_outside" width="200" height="150">
 					</a>
 
 
