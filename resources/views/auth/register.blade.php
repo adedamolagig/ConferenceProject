@@ -108,7 +108,7 @@
                             <label for="facebook" class="col-md-4 control-label">Facebook</label>
 
                             <div class="col-md-6">
-                                <input id="facebook" type="text" class="form-control" name="facebook" value="{{ old('facebook') }}" required autofocus>
+                                <input id="facebook" type="text" class="form-control" name="facebook" value="{{ old('facebook') }}">
 
                                 @if ($errors->has('facebook'))
                                     <span class="help-block">
@@ -122,7 +122,7 @@
                             <label for="linkedln" class="col-md-4 control-label">Linkedln</label>
 
                             <div class="col-md-6">
-                                <input id="linkedln" type="text" class="form-control" name="linkedln" value="{{ old('linkedln') }}" required autofocus>
+                                <input id="linkedln" type="text" class="form-control" name="linkedln" value="{{ old('linkedln') }}">
 
                                 @if ($errors->has('linkedln'))
                                     <span class="help-block">
@@ -136,7 +136,7 @@
                             <label for="twitter" class="col-md-4 control-label">Twitter</label>
 
                             <div class="col-md-6">
-                                <input id="twitter" type="text" class="form-control" name="twitter" value="{{ old('twitter') }}" required autofocus>
+                                <input id="twitter" type="text" class="form-control" name="twitter" value="{{ old('twitter') }}">
 
                                 @if ($errors->has('twitter'))
                                     <span class="help-block">

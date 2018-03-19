@@ -55,9 +55,9 @@ class RegisterController extends Controller
             'position'      => 'required|string|max:255',
             'country'       => 'required|string|max:255',
             'email'         => 'required|string|email|max:255|unique:users',
-            'facebook'      => 'required|string|max:255',
-            'linkedln'      => 'required|string|max:255',
-            'twitter'       => 'required|string|max:255',
+            'facebook'      => 'max:255',
+            'linkedln'      => 'max:255',
+            'twitter'       => 'max:255',
             'password'      => 'required|string|min:6|confirmed',
         ]);
     }
@@ -70,16 +70,19 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
+
+        // dd(request()->all());
+
         $user = User::create([
-            'first_name'    => $data['first_name'],
-            'last_name'     => $data['last_name'],
-            'salutations'   => $data['salutations'],
-            'position'      => $data['position'],
-            'country'       => $data['country'],
-            'email'         => $data['email'],
-            'facebook'      => $data['facebook'],
-            'linkedln'      => $data['linkedln'],
-            'twitter'       => $data['twitter'],
+            'first_name'    => request('first_name'),
+            'last_name'     => request('last_name'),
+            'salutations'   => request('salutations'),
+            'position'      => request('position'),
+            'country'       => request('country'),
+            'email'         => 'email',
+            'facebook'      => 'facebook',
+            'linkedln'      => 'linkedln',
+            'twitter'       => 'twitter',
             'password'      => bcrypt($data['password']),
         ]);
 
