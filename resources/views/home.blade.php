@@ -19,9 +19,13 @@
 
                     <p style="font-size: 16px; font-weight: bold;">Here, you can upload abstracts for the conference</p> 
 
-                    <p style="font-size: 16px;">Authors are invited to submit abstracts in English of not more than 300 words for peer review by the scientific and technical committee by not later than 31st March 2018. The abstract should not contain any undefined abbreviations or unspecified references. Each abstract should indicate the theme of the conference the proposed paper will address, and give the name and full contact details of the author to be contacted concerning the paper. Abstracts will be reviewed according to: the relevance to the topics and objectives of the conference; originality of subject matter; likely academic and technical rigour of the proposed paper; and likely contribution to knowledge, or practical relevance, of the proposed paper. Note that papers that are based on actual research that include empirical findings and critical/robust literature review will be accepted upon proof of registration.</p>
+                    <p style="font-size: 16px;" class="text-justify">Authors are invited to submit abstracts in English of not more than 300 words for peer review by the scientific and technical committee by not later than 31st March 2018. The abstract should not contain any undefined abbreviations or unspecified references. Each abstract should indicate the theme of the conference the proposed paper will address, and give the name and full contact details of the author to be contacted concerning the paper. Abstracts will be reviewed according to: the relevance to the topics and objectives of the conference; originality of subject matter; likely academic and technical rigour of the proposed paper; and likely contribution to knowledge, or practical relevance, of the proposed paper. Note that papers that are based on actual research that include empirical findings and critical/robust literature review will be accepted upon proof of registration.</p>
 
-
+                    <p style="font-size: 20px; color: darkorange; "><strong> Payment can be made to EAutoEI Zenith bank account number 1013192078</strong></p>
+                        <p style="font-size: 20px; color: darkorange; ">Registration Fee</p>
+                        <p style="font-size: 20px; color: darkorange; ">Participants: #20,000</p>
+                        <p style="font-size: 20px; color: darkorange; ">Students: #5,000</p>
+                    
                     <div class="panel panel-default">
 
                 

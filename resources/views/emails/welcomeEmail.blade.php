@@ -7,6 +7,6 @@ The body of your message.
 Button Text
 @endcomponent
 
-Thanks,<br>
+Thanks, {{ $user->name }} <br>
 {{ config('app.name') }}
 @endcomponent
