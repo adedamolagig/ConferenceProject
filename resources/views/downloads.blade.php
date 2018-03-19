@@ -10,8 +10,7 @@
                 <div class="panel-heading"><strong style="font-size: 35px; font-weight: 35px; color: green">Download Conference Flyer</strong></div>
 
                 <div class="panel-body">
-<!--                 	<p>Click on image to download...it has been downloads {{ $downloads }} times </p>
- -->                   	<a href="/images/outside.jpg" download>
+                   	<a href="/images/outside.jpg" download>
 					  <img border="0" src="/images/outside.jpg" alt="flyer_outside" width="200" height="150">
 					</a>
 

@@ -21,7 +21,7 @@ class PageController extends Controller
     {
 
         // $downloads = Redis::incr("\images.{1234.jpg}");
-    	return view('downloads')->withDownloads($downloads);
+    	return view('downloads');
     }
 
     public function objectives()
