@@ -79,7 +79,7 @@ class RegisterController extends Controller
             'salutations'   => request('salutations'),
             'position'      => request('position'),
             'country'       => request('country'),
-            'email'         => 'email',
+            'email'         => $data['email'],
             'facebook'      => 'facebook',
             'linkedln'      => 'linkedln',
             'twitter'       => 'twitter',
@@ -88,6 +88,6 @@ class RegisterController extends Controller
 
         return $user;
 
-        \Mail::to($user)->send(new welcomeEmail);
+        \Mail::to($user)->send(new welcomeEmail($user));
     }
 }
