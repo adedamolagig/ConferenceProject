@@ -39,14 +39,10 @@
 
       
 
-       <!--  <nav class="navbar navbar-default navbar-static-top">
-            <div class="container">
-                <span style="font-weight: 1000; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> 2018 National Automotive Engineering System Mega Conference 10th - 13th April @ Academy Inn, Lateef Jakande, Ikeja, Lagos. </span>
-        </nav> -->
-
+        <marquee style="color: red; font-weight: 30px; font-size: 40px;" >Date: 10th - 13th April; Venue: Academy Inn, Lateef Jakande Way, Agindigbi, Ikeja, Lagos</marquee>
         <nav class="navbar navbar-default navbar-static-top">
-            <div class="container">
-                <span style="font-weight: ; font-family: Apple Chancery; font-size: 30px;"> <span style="font-family: Courier; "></span> <img src="{{ asset('images/megaauto2018.png')}}" > </span>
+            <div class="container middle">
+                <a href="http://www.nse.org.ng.nsehqabj.arvixevps.com/"> <img align="middle" src="{{ asset('images/logo9.png')}}" > </a>   
             </div>
         </nav>
 
@@ -181,7 +177,27 @@
             </div>
         </nav>
 
-        @yield('content')
+       
+            <!-- <div class="col-sm-1">
+                <ul style="list-style-type:none">
+                    <li> <a href="http://www.nse.org.ng.nsehqabj.arvixevps.com/"> <img src="images/aero_division.png"></a></li>
+                    <li> <a href="http://www.nse.org.ng.nsehqabj.arvixevps.com/"> <img src="images/marine_NSE.png"></a></li>
+                </ul>
+                
+            </div> -->
+            
+            <div>
+                @yield('content')
+            </div>
+
+            <!-- <div class="col-sm-1">
+                <ul style="list-style-type:none">
+                    <li> <a href="http://www.nse.org.ng.nsehqabj.arvixevps.com/"> <img src="images/NSE_60.png"></a> </li>
+                    <li> <a href="http://www.nse.org.ng.nsehqabj.arvixevps.com/"> <img src="images/AutoEI.png"></a></li>
+                </ul>
+            </div> -->
+       
+        
 
         <div class="panel-footer">
             @include('layouts.footer')
