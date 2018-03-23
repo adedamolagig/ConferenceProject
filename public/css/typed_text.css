@@ -1,0 +1,12 @@
+.typed{
+	animation: type 2s;
+	overflow: hidden;
+	white-space: nowrap;
+	width: 1500px
+}
+
+@keyframes type {
+	from {
+		width: 0;
+	}
+}
